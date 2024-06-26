@@ -1,0 +1,1 @@
+python test.py -d ./data -cuda cuda:0 -l model.pth
