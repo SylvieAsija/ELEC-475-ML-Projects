@@ -1,0 +1,1 @@
+python test.py -c 'classification_weights.pth' -cuda 1 -a 0 -i 1 -d './data/Kitti8' -t 'temp_images' -o 'test_outputs'

@@ -1,0 +1,1 @@
+python train.py -lr 0.023 -b 230 -vb 59 -e 25 -cuda cuda:0 -d ./data/Kitti8_ROIs/ -p loss_plot.png -s classification_weights.pth

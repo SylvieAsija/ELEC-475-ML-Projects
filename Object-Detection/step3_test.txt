@@ -1,0 +1,1 @@
+python test.py -c 'classification_weights.pth' -cuda 1 -a 1 -i 0 -rd './data/Kitti8_ROIs'
