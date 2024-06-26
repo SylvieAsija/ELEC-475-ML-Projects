@@ -1,0 +1,1 @@
+python test.py -ch 'classification_weights_vanilla.pth' -c 100 -b 2048 -mod 0
