@@ -1,0 +1,2 @@
+python train.py -content_dir ./data/COCO10k/ -style_dir ./data/wikiart10k/ -gamma 1.0 -e 40 -b 24 -l encoder.pth -s decoder_1_1k.pth -p decoder_1_1k.png -cuda Y
+python train.py -content_dir ./data/COCO10k/ -style_dir ./data/wikiart10k/ -gamma 1.0 -e 40 -b 24 -l encoder.pth -s decoder_1_10k.pth -p decoder_1_10k.png -cuda Y
